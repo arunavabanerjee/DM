@@ -1,0 +1,65 @@
+Software Practices (SCRUM): SCRUM Roles
+    describe the Agile Manifesto
+    list the 12 principles behind the Agile Manifesto
+    describe the Scrum framework
+    use the five Scrum values to build a foundation for teamwork and continuous improvement for a team
+    describe how inspection, adaptation, and transparency can improve how people work together toward common goals
+    describe how the Product Increment is developed throughout the lifecycle of your project
+    use the Scrum values and rules to assist the Scrum Master, team members, and stakeholders to protect the Sprints
+    use the roadmap release schedule to determine the end of a Scrum project
+    list the three core roles defined in the Scrum framework
+    define the two types of project members and the rules they must obey in Scrum development
+    describe the key Product Owner role in a Scrum software development team
+    describe the Scrum Master role in a Scrum software development team
+    describe the role of a Scrum Team within a Scrum software development team
+    describe the Project Manager's role responsibilities required by the Scrum environment
+    describe best practices when assigning Scrum roles
+    describe the four Scrum artifacts and their role in the context of the Scrum Team and Scrum Theory
+    describe the Product Backlog
+    use SPIKEs to discover more information in order to resolve an issue
+    describe how User Stories are defined, constructed, prioritized, and groomed for inclusion into the Sprint Backlog during Sprint Planning
+    identify fat Product Backlog items (PBIs) that require splitting into smaller User Stories in a Scrum project
+    describe the Scrum Sprint Backlog
+    describe the Scrum Sprint Burn Down Chart
+    describe the Scrum Product Increment
+    describe the independence criterion in the INVEST guidelines
+    describe the negotiable criterion in the INVEST guidelines
+    describe the valuable criterion in the INVEST guidelines
+    describe the estimable criterion in the INVEST guidelines
+    describe the small criterion in the INVEST guidelines
+    describe the testable criterion in the INVEST guidelines
+ ==================================================================
+ Software Practices (SCRUM): SCRUM Meetings
+    describe the four Scrum meetings, when they occur, who attends, and the discussions that take place in each meeting
+    describe how the Sprint Goal and Sprint Backlog are created in the Sprint Planning meeting in Scrum software practices
+    describe how the Daily Standup meetings are structured with the Scrum Master and Scrum Team in Scrum software practices
+    describe how the Sprint Retrospective meeting assists the Scrum Master, Scrum Team, and Product Owner to adapt their practices and behaviors toward continual process improvement
+    describe how the Sprint Retrospective Meeting in Scrum can reveal insights into the last Sprint and identify areas that have room for improvement
+    describe how the Product Backlog Grooming Meeting in Scrum allows the team to review the top level user stories to determine whether they are ready to move into the next Sprint
+    describe how the Sprint Review Meeting allows Scrum members and stakeholders to inspect and adapt the product as it is being developed
+    describe how the Scrum of Scrums Meeting facilitates communication and collaboration between teams working on a large project
+    use the Definition of Done (DoD) checklist in Scrum to ensure that the best practices are followed during the development of high-quality software
+    describe the advantages of using smaller user stories when preparing for a Sprint in Scrum
+    describe how to write consumer user stories
+    Size user stories in a product backlog using Scrum principles
+    describe how and why teams split user stories into tasks to track user stories' progress in a Sprint
+    describe how the Scrum Master can encourage self-organization within the Scrum Team
+    describe User Stories
+    Split EPICs into a hierarchy of User Stories that can be completed in a single Sprint
+    describe the SCRUM Story Board
+    describe the lifecycle of a User Story
+    break down an EPIC into component User Stories
+    split User Stories into small slices using heuristics
+    split large User Stories into small slices using business data patterns
+    split User Stories by identifying the simple and complex patterns
+    use tasks to measure a team's progress and keep the entire team on track
+    use the SMART tasks to break down tasks into manageable portions of the User Story
+    use INVEST guidelines to develop high-quality User Stories
+    describe some of the ways technical debt accumulates and makes a product unstable
+    describe how to bring technical debt under control
+    describe the advantages associated with deferring detailed specifications in Scrum
+    use the team's velocity to estimate their capacity in the next Sprint
+    describe how to manage the Sprint
+    describe how to limit the work in progress
+====================================================================================================
+    
