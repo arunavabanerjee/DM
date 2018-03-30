@@ -1,0 +1,37 @@
+DM using R
+--------------
+Data Science Overview
+  (What is Data Science?, Skill-set required, Job Opportunities)
+
+Descriptive & Inferential Statistics
+  (Continuous vs. Categorical variables, Mean, Median, Mode, Standard Deviation, Quartile, IQR, 
+   Hypothesis testing, z-test, t-test)
+
+Data Analytics Using R Programming - Fundamentals
+  (Apply family of functions, lapply, sapply, tapply, Installation of R Studio, Overview of R Studio components,
+    Data Structures, Vector, List, Matrices, Data Frame, Factor, Slicing and Sub-setting, Vector, List, Matrix,
+    Data Frame, Functions in R, In-built functions, User-defined functions, Loops in R - while, for, break, next,
+    Data Import in R)
+
+Data Analytics Using R Programming – Advanced
+  (Apply family of functions, lapply, sapply, tapply, Data Manipulation using dplyr, 
+    Data Visualization using ggplot2)
+
+Machine Learning Using R – Part 1
+  (What is Machine Learning, Supervised vs. Unsupervised Learning, Exploratory Data Analysis, Univariate analysis,
+    Boxplot, Bivariate analysis, Scatterplot, Correlation, Outliers, Remove duplication, Missing value imputation,
+    Underfitting vs. Overfitting, Linear Regression, Simple, Multiple, sumptions of Linear Regression, 
+    Evaluating Accuracy of model: k-Fold Cross validation, Logistic Regression, Confusion Matrix, ROC Curve, 
+    Time Series Forecasting, Moving Average, Exponential smoothing, Holt Winter’s, ARIMA)
+
+Machine Learning Using R – Part 2
+  (Naive Bayes, Support Vector Machine, K-Nearest Neighbour, Decision tree, Random Forest, K-Means clustering)
+
+Big Data Using Hadoop & Spark
+  (Introduction to Big Data, Overview of Hadoop & its Ecosystem, Introduction to NoSQL, Overview of Apache Spark)
+
+
+
+
+
+
