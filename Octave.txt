@@ -1,0 +1,13 @@
+========================================================================================
+Installed:
+  GraphicsMagick.x86_64 1.3.24-1.fc22          GraphicsMagick-c++.x86_64 1.3.24-1.fc22                arpack.x86_64 3.3.0-1.b0f7a60git.fc22        
+  atlas.x86_64 3.10.1-21.fc22                  blas.x86_64 3.5.0-12.fc22                              epstool.x86_64 3.08-7.fc22                   
+  fftw-libs-double.x86_64 3.3.4-5.fc22         fftw-libs-single.x86_64 3.3.4-5.fc22                   fltk.x86_64 1.3.3-2.fc22                     
+  gl2ps.x86_64 1.3.9-1.fc22                    glpk.x86_64 4.55-2.fc22                                gnuplot.x86_64 5.0.0-8.fc22                  
+  gnuplot-common.x86_64 5.0.0-8.fc22           hdf5.x86_64 1.8.14-3.fc22                              lapack.x86_64 3.5.0-12.fc22                  
+  libgfortran.x86_64 5.3.1-6.fc22              libquadmath.x86_64 5.3.1-6.fc22                        libwmf-lite.x86_64 0.2.8.4-46.fc22           
+  octave.x86_64 6:3.8.2-19.fc22                perl-Unicode-EastAsianWidth.noarch 1.33-4.fc22         perl-libintl.x86_64 1.20-16.fc22             
+  qhull.x86_64 2003.1-25.fc22                  qrupdate.x86_64 1.1.2-6.fc22                           qscintilla.x86_64 2.8.4-6.fc22               
+  suitesparse.x86_64 4.3.1-4.fc22              tbb.x86_64 4.3-1.20141204.fc22                         texinfo.x86_64 5.2-9.fc22        
+  
+==========================================================================================
