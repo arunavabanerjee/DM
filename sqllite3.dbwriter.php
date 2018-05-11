@@ -1,3 +1,35 @@
+
+CREATE TABLE [IF NOT EXISTS] [schema_name].table_name (
+ column_1 data_type PRIMARY KEY,
+   column_2 data_type NOT NULL,
+ column_3 data_type DEFAULT 0,
+ table_constraint
+) [WITHOUT ROWID];
+----------------------------------------------------------
+CREATE TABLE contacts (
+ contact_id integer PRIMARY KEY,
+ first_name text NOT NULL,
+ last_name text NOT NULL,
+ email text NOT NULL UNIQUE,
+ phone text NOT NULL UNIQUE
+);
+----
+CREATE TABLE groups (
+ group_id integer PRIMARY KEY,
+ name text NOT NULL
+);
+----
+CREATE TABLE contact_groups (
+ contact_id integer,
+ group_id integer,
+ PRIMARY KEY (contact_id, group_id),
+ FOREIGN KEY (contact_id) REFERENCES contacts (contact_id) 
+ ON DELETE CASCADE ON UPDATE NO ACTION,
+ FOREIGN KEY (group_id) REFERENCES groups (group_id) 
+ ON DELETE CASCADE ON UPDATE NO ACTION
+);
+
+----------------------------------------------------------
 <?php
 /**
  * SQLite 3 DB Writer 
